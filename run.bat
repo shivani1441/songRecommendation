@@ -1,0 +1,2 @@
+python SpeechEmotion.py
+pause
